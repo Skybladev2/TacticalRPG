@@ -1,0 +1,400 @@
+﻿ERR_MissingSrcFolder Missing source folder specified. 
+ERR_CouldNotParseValue Could not parse {0} value. 
+ERR_ExpectedNumberOfArguments Expected {0} argument(s). 
+ERR_CouldNotLoadData Could not load the data. 
+ERR_XBeyondImageWidth x is beyond the width of the image.
+ERR_YBeyondImageWidth y is beyond the height of the image.
+ERR_WidthCanNotBeLessThanOne Width can not be less then 1.
+ERR_HeightCanNotBeLessThanOne Height can not be less then 1.
+ERR_SourceWidthCanNotBeLessThanOne srcWidth can not be less then 1.
+ERR_SourceHeightCanNotBeLessThanOne srcHeight can not be less then 1.
+ERR_WidthClipedByteDataLessOne Width of clipped byte data is less then 1.
+ERR_HeightClipedByteDataLessOne Height of clipped byte data is less then 1.
+ERR_XMustBeGReaterThanZero x must be greater than 0.
+ERR_YMustBeGReaterThanZero y must be greater than 0.
+ERR_MinimumCanNotBeGreaterThenMaximum Minimum value can not be greater then Maximum value.
+ERR_MaximumCanNotBeLessThenMinimum Maximum value can not be less then Minimum value.
+ERR_IndexOutOfBounds Index out of bounds.
+ERR_NoPrefabCategoriesDefined No prefab categories defined!
+ERR_NoMaterialName No material name!
+ERR_NoTextureSelected No texture selected!
+ERR_AMaterialWithNameExists A material with that file name already exists!
+ERR_ExistingMaterialCouldotLoad Existing material could not be loaded!
+ERR_NoOutputDirectory No output directory!
+ERR_CouldNotCreateDirectory Could not create directory!	  
+ERR_FieldRequiresMinimumLength Field requires a minimum of {0} characters.
+ERR_CountMustBeGreaterThanOne Argument must be greater then or equal to 1.
+ERR_WrongActionForCtor Constructor supports only the '{0}' action.
+ERR_ResetActionRequiresNullItem Reset action must be initialized with no changed items.
+ERR_MustBeResetAddOrRemoveActionForCtor Constructor only supports either a Reset, Add, or Remove action.
+ERR_ResetActionRequiresIndexMinus1 Reset action must be initialized with index -1.
+ERR_IndexCannotBeNegative Index cannot be negative.
+ERR_ObservableCollectionReentrancyNotAllowed Cannot change ObservableCollection during a CollectionChanged event.
+ERR_CantFindPencilTool Could not find the pencil tool!
+ERR_FailedToGetLastToolUID Failed to process last drawing tool UID from settings.
+ERR_ToolWithSameUidAlreadyRegistered Tool with the same UID has already been registered!
+ERR_LayersPropertyNull Layers property is null.
+ERR_ErrorsOccurredUpdatingToolList Errors occurred while updating the tool list\r\n{0}
+ERR_ErrorGeneratingPrefabIndexData Error occoured when generating data. See console window for details.
+ERR_NoPrefabIndexFileGeneratedNoFilename No prefab index file generated because no file name was specified.
+
+SETT_Map2DShowCheckerboardBackground Show checkerboard background
+SETT_RotationWindowOrientation Orient Rotation Window Vertically
+SETT_AvailableTools Available Tools
+SETT_DrawingTools Drawing Tools
+SETT_GridMappingDrawingTools Grid Mapping/Drawing Tools
+SETT_Map2DDrawingTools Map2D/Drawing Tools
+SETT_RotationStyle Rotation control style
+SETT_AsRotationWindow As rotation window
+SETT_RestoreLastDrawingTool Restore last drawing tool
+SETT_HierarchicalMaterialCreationShaderList Shader list style
+SETT_PrefabButtonSize Prefab button size
+SETT_PrefabButtonsPerRow Buttons per row
+SETT_DrawingToolButtonsPerRow Drawing tool buttons per row
+SETT_DrawingRulesConfirmation Get user permission
+SETT_DrawingRuleConsoleOutput Output rule check to console
+SETT_ShowMouseCoordinatesTopLeft Anchor to top left of scene view
+SETT_ShowMouseCoordinatesTopRight Anchor to top right of scene view
+SETT_ShowMouseCoordinatesBottomLeft Anchor to bottom left of scene view
+SETT_ShowMouseCoordinatesBottomRight Anchor to bottom right of scene view
+SETT_ShowMouseCoordinatesAbovePointer Show above mouse pointer
+SETT_ShowMouseCoordinatesUnderPointer Show under mouse pointer
+SETT_DontShowMouseCoordinates Don't show
+SETT_MouseCoordinatesStyle Show mouse Coordinates
+SETT_GridMappingSceneView Grid Mapping/Scene View
+SETT_AsCheckBox As check boxes
+SETT_AsButtons As buttons
+SETT_DrawingHelperStyle Drawing helpers style
+SETT_DrawingRuleEntrySize Drawing rule entry height
+SETT_ShowDrawRulesSize Drawing rules button height
+SETT_GridMappingDrawingRules Grid Mapping/Drawing Rules
+SETT_DrawingToolButtonSize Drawing tools button size
+SETT_GridMappingAutoMaterials Grid Mapping/Automatic Material Creation
+SETT_PrefabIndexResourceFolder Prefab index folders  
+SETT_MarkerScale Marker scale
+SETT_ShowMarker Show marker
+SETT_ShowMapInfoAsFoldout Show map information as foldout
+SETT_ShowMapInfoVer2Style Version 2 style
+SETT_ShowMapInfoOldStyle OldStyle (before version 2.0)
+SETT_Version2SimpleStyle Version 2 simple style (Add Layer button)
+SETT_PromptToDeleteLayer Get user permission before deleting layer
+SETT_ShowMoveLayerButtons Show move layer buttons
+SETT_ShowDeleteLayerButtons Show delete layer buttons
+SETT_DisablelayerCountField Disable layer count field
+SETT_Version2LayerCountStyle Version 2 style (Add\Remove buttons)
+SETT_OldLayerCountStyle Old Style integer field (Before version 2.0)
+SETT_LayerCountStyle Layer count style
+SETT_LayerListHeight Layer list height
+SETT_LayerIconSize Layer icon size
+SETT_ShowActiveLayer Show active layer indicator
+SETT_Version2LayerStyle Version 2 style
+SETT_OldLayerStyle Old Style (Before version 2.0)
+SETT_LayerListStyle Layer list style
+SETT_ShowLayersInInspector Show layers in inspector
+SETT_GridMappingLayers Grid Mapping/Layers
+SETT_ShowLayerVisibility Show layer visibility
+SETT_ShowLayerLock Show layer locks
+SETT_ScrollLayers Scrollable layers list
+SETT_TileMaterialCreationShaders Shader List (Each line is separate shader)
+SETT_SceneViewAutoPan *BETA* Scene View Auto Panning
+SETT_SceneViewAutoPanEnabled Auto panning enabled
+SETT_SceneViewAutoPanSize Border size
+SETT_SceneViewAutoPanSpeed Panning speed
+SETT_TileMaterialCreation Tile Mapping Utilities/Tile Material Creation
+SETT_GridMappingPrefabs Grid Mapping/Prefabs
+SETT_GridMappingGeneral Grid Mapping/General
+SETT_Map2DGeneral Map2D/General
+SETT_GridMappingColors Grid Mapping/Colors
+SETT_GridMappingRecentPrefabs Grid Mapping/Recent Prefabs
+SETT_GridMappingRecentMaterials Grid Mapping/Recent Materials
+SETT_QuickToolsGeneral *BETA* Quick Tools/General
+SETT_QuickToolsEditMenus *BETA* Quick Tools/Edit Menus
+SETT_MapInfoStyle Map information style
+SETT_ShowInspectorTools Show inspector tools
+SETT_AutoScalePrefabs Automatically scale prefabs
+SETT_AutoCenterPrefabs Automatically center prefabs
+SETT_ShowGrid Show grid
+SETT_ShowGuidelines Show guidelines
+SETT_DefaultCellWidth Default cell width
+SETT_DefaultCellHeight Default cell height
+SETT_DefaultMapColumns Default map columns
+SETT_DefaultMapRows Default map rows	
+SETT_DefaultMapName Default map name	
+SETT_ShowPrefabsInHierarchy Show prefabs in hierarchy
+SETT_DefaultControlSize Default control size
+SETT_EnableQuickTools Enable Quick Tools
+SETT_BorderColor Border color
+SETT_GridColor Grid color
+SETT_GuidelineColor Guideline color
+SETT_MarkerColor Marker color
+SETT_MaxNumberOfItems Maximum number of items
+SETT_MaxControlHeight Maximum control height
+SETT_EnableRecentMaterialsInInspector Recent materials in inspector
+SETT_EnableRecentPrefabsInInspector Recent prefabs in inspector
+SETT_ShowRemoveButtons Show remove buttons
+SETT_ShowAsButtons Show as buttons
+SETT_ShowSelectButton  Show select button
+SETT_ButtonSize Button size
+SETT_ShowAsList Show as list
+SETT_ButtonsPerRow Buttons per row
+SETT_ShowAssetPreview Show asset preview
+SETT_ShowAddMaterialButton Show add material button
+SETT_ShowAddPrefabButton Show add prefab button
+SETT_HoldShiftToDraw Hold shift to draw
+SETT_HoldShiftToErase Hold shift to erase
+SETT_HoldAltToDraw Hold alt to draw
+SETT_HoldAltToErase Hold alt to erase
+SETT_HoldControlToDraw Hold control to draw
+SETT_HoldControlToErase Hold control to erase
+SETT_MouseWheelChangesLayers Mouse wheel changes layers
+SETT_HoldShiftToChangeLayers Hold shift to change layers
+SETT_HoldAltToChangeLayers Hold alt to change layers
+SETT_HoldControlToChangeLayers Hold control to change layers
+SETT_PrefabNameFormat Prefab name format
+SETT_DefaultLayerDepth Default layer depth
+SETT_DefaultTileMaterialCreationColor Default color
+SETT_TileMaterialCreationAsList Default 'As list' state
+SETT_TileMaterialCreationDefaultTileWidth Default tile width
+SETT_TileMaterialCreationDefaultTileHeight Default tile height
+
+CMD_listcustomstyles listcustomstyles
+CMD_customstylecount customstylecount
+CMD_currentskin currentskin
+CMD_beginloop beginloop 
+CMD_endloop endloop 
+CMD_exitloop exitloop   
+CMD_executescript executescript 
+CMD_listscripts listscripts
+CMD_loadscript loadscript 
+CMD_loadscriptfromfile loadscriptfromfile 
+CMD_removescript removescript  
+CMD_getloggingfile getloggingfile	
+CMD_isloggingcommands isloggingcommands	
+CMD_setloggingfile setloggingfile	
+CMD_startloggingcommands startloggingcommands	
+CMD_stoploggingcommands stoploggingcommands	
+CMD_appendvarible appendvarible	
+CMD_createvarible createvarible	
+CMD_deletevarible deletevarible	
+CMD_getvarible getvarible	
+CMD_listvaribles listvaribles	
+CMD_setvarible setvarible	
+CMD_cd cd	
+CMD_curdir curdir	
+CMD_dir dir	
+CMD_alias alias	
+CMD_category category	
+CMD_clear clear	
+CMD_commands commands	
+CMD_createalias createalias	
+CMD_deletealias deletealias	
+CMD_echo echo	
+CMD_help help	
+CMD_loadalias loadalias	
+CMD_savealias savealias	
+CMD_equals equals	
+CMD_if if	
+CMD_iffalse iffalse	
+CMD_iftrue iftrue	
+CMD_creategameobject creategameobject
+
+MSG_ItemCanNotBeUsedRightNow Item cannot be used right now.
+
+PrefabIndexFileGeneratorTitle Prefab Index File Generator
+Information Information
+DrawingRulesTitle Drawing Rules
+Depth Depth
+LayerThickness Layer Thickness
+CellSize Cell Size
+Width Width
+Height Height
+Columns Columns
+Rows Rows
+MapDimensions Map Dimensions
+MapInformation Map Information
+Layers Layers
+LayerCount Layer Count
+Rotation Rotation
+Guidelines Guidelines
+Grid Grid
+AutoScale Auto Scale
+AutoCenter Auto Center
+ApplyMaterial Apply Material
+CurrentMaterial Current Material
+AddMaterial Add Material
+CurrentPrefab Current Prefab
+AddPrefab Add Prefab
+AlignX Align X
+AlignY Align Y
+AlignZ Align Z
+AlignMaxXEdge Align Max X Edge
+AlignMaxYEdge Align Max Y Edge
+AlignMaxZEdge Align Max Z Edge
+AlignMinXEdge Align Min X Edge
+AlignMinYEdge Align Min Y Edge
+AlignMinZEdge Align Min Z Edge
+GridMap Grid Map
+ListOfCustomStyles List of custom styles
+Scripts Scripts 
+InvalidScriptNameSpecified Invalid script name was specified. 
+scriptsDOT scripts. 
+ScriptWithThatNameExists A script with the name '{0}' already exists. 
+FileNotFound File with that filename does not exist. 
+AliasNameAlreadyExists Alias  '{0}' already exists.	
+AliasNameIsNotValid '{0}' is not a valid alias name.	
+CommandNameAlreadyExists Command name '{0}' already exists.	
+InvalidCharacters There were invalid characters specified.	
+SpecifiedCommandNotExist Specified command does not exist!	
+Charges Charges
+cooldown cooldown
+remaining remaining
+NoFileSpecified No file was specified.	
+DirectoryNameNonExistant Directory with that name does not exist.	
+CommandloggingHasStopped Command logging has stopped.	
+LoggingFileSetTo The logging file was set to {0}	
+InvalidVaribleName Invalid variable name.	
+argumentDOT argument.	
+First First	
+Second Second	
+Value Value	
+VaribleDeleted The variable was deleted.	
+Variable Variable	
+Variables Variables	
+Alias Alias	
+Command Command	
+NumberCategories {0} Categories.	
+Commands Commands	
+NoCommandsFound No commands found.	
+NumberCommands {0} Commands.	
+FileDoesNotExist File does not exist.	
+NumberAliasLoaded {0} aliases loaded.	
+NoHelpArgument No arguments given. Example: help >command or command alias<	
+NoHelpAvailible No help is available.	
+SpecifiedCommandNotExist Specified command does not exist!	
+AliasCreated Alias created.	
+AliasRemoved Alias Removed.	
+AliasWasNotCreated Alias was not created.	
+CreateAliasExample Example: createalias >alias name< >command to execute<	
+executes executes	
+NoAliasWasSpecified No alias was specified.	
+Expected2Args Expected 2 arguments.	
+MissingOrInvalidArg Missing or invalid argument.	
+Categories Categories						  
+Select Select
+NoneBracket <none>
+Map Map
+Prefab Prefab
+XColonValue X: {0}
+YColonValue Y: {0}
+ZColonValue Z: {0}
+DeleteValue Delete - {0}
+CreateValue Create - {0}
+ShowGridMapMenu Show grid map menu
+Refresh Refresh
+All All
+None None
+Hide Hide
+Unhide Unhide
+HiddenGameObjects Hidden Game Objects
+FlipVertical Flip Vertical
+FlipHorizontal Flip Horizontal
+FlipBoth Flip Both
+SelectOutputPath Select output path
+TileSize Tile 
+MapSize Map Size
+Texture Texture
+StartsWithSpacing Starts with spacing
+Spacing Spacing
+Inset Inset
+OutputPath Output path
+AsList As list
+Set Set
+ShaderType Shader type
+LabelsToApply Labels to apply
+Orientation Orientation
+Create Create
+Warning Warning
+Override Override
+Update Update
+Cancel Cancel
+Accept Accept
+Preview Preview
+TileMaterials Tile Materials
+Color Color
+Freeform Free form
+Feedback Feedback
+Email Email 
+Submitting Submitting
+AreYouSure Are you sure?
+ConfirmDeleteLayer Are you sure you want to delete layer "{0}".
+DeleteLayer Delete layer
+MoveLayer Move layer
+LayerVisibility Layer visibility
+AddLayer Add Layer
+FillRectangle Fill rectangle
+DrawRectangle Draw rectangle
+Marker Marker
+LayerLock Layer lock
+X X
+Y Y
+Z Z
+DrawingRules Drawing Rules
+Add Add
+Close Close
+SelectRuleFile Select rule file
+RuleSetAddedAlready Rule set already added!	  
+SaveRuleData Save rule data
+Shaders Shaders
+Hierarchy Hierarchy
+Flat Flat
+AutomaticMaterialCreation Automatic Material Creation
+Fill Fill
+Remove Remove
+Search Search
+Up Up
+Down Down
+Map2DEditor Map2D Editor
+Map2DLayers Map2D Layers
+Map2DTiles Map2D Tiles
+New New
+Open Open
+Rectangle Rectangle
+PrefabPicker Prefab Picker
+PrefabInformation Prefab Information
+Pencil Pencil
+LoadingUpdatedRulesFromDisk loading updated rules from disk
+PerformingRuleCheck Performing rule check "{0}"
+InitialRuleCheckFailedNotEnabled Initial rule check failed not enabled "{0}"
+InitialRuleCheckFailedOriginalNotAllowed Initial rule check failed no alternates and original not allowed "{0}"
+InitialRuleCheckFailedAssetPaths Initial rule check failed asset paths do not match "{0}"
+RuleSource Rule Source:
+PrefabSource Prefab Source:
+InitialCheckPassed Initial check passed
+RulePassed Rule "{0}" Passed {1}\r\nNeighbors: {2}\r\nLower:{3}\r\nUpper:{4}
+ReturningOriginal Returning original "{0}"
+ReturningNullResponseNoPrefabToReturn Returning null response no prefab to return
+ReturningAlternatePrefab Returning alternate {0} "{1}" its a "{2}"
+DestroyingOriginallyCreatedPrefab Destroying originally created prefab returned by this.CreatePrimitivePrefab
+NoMap No map
+EditorToolbar Editor Toolbar
+LayersToolbar Layers Toolbar
+DrawTile Draw Tile
+CheckerboardBackground Checkerboard background
+MapBorder Map Border
+NewLayer New Layer
+DeleteLayer Delete Layer
+Copy Copy
+Generate Generate
+CategoryComment // category
+SeparatorComment // separator
+PrefabIndexFileDescriptor // Source asset, texture icon, name
+Category Category
+Separator Separator
+StripResourcesFolder Strip resources folder
+Filename Filename
+AppendGeneratedPrefabIndexData Append generated data
+Error Error
+GeneratedPrefabIndexFileAt Generated prefab index file at {0}
+Save Save
+DeleteLayer Delete Layer
+SetLayerCount Set Layer Count

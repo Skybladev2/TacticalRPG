@@ -1,0 +1,6 @@
+﻿// Source asset, texture icon, name
+// separator ,
+
+// category Mesh Based/3D Shapes (Low poly)
+
+Codefarts.Unity/Prefabs/Mesh Based/3D/Pyramid, Codefarts.Unity/Textures/MeshPyramid, Pyramid

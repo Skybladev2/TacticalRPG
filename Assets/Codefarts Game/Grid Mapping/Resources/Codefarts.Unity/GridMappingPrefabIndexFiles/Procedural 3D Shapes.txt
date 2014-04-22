@@ -1,0 +1,18 @@
+﻿// Source asset, texture icon, name
+// separator ,				  
+
+ // category Procedural/3D Shapes (Low poly)
+				 
+Codefarts.Unity/Prefabs/Procedural/3D/CornerRamp, Codefarts.Unity/Textures/ProceduralCornerRamp, CornerRamp
+Codefarts.Unity/Prefabs/Procedural/3D/Ramp, Codefarts.Unity/Textures/ProceduralRamp, Ramp
+Codefarts.Unity/Prefabs/Procedural/3D/InsideCorner, Codefarts.Unity/Textures/ProceduralInsideCorner, InsideCorner
+Codefarts.Unity/Prefabs/Procedural/3D/OutsideCorner, Codefarts.Unity/Textures/ProceduralOutsideCorner, OutsideCorner
+Codefarts.Unity/Prefabs/Procedural/3D/Pyramid, Codefarts.Unity/Textures/ProceduralPyramid, Pyramid
+
+// category Procedural/3D Shapes (Low poly \ No Collider)
+				 
+Codefarts.Unity/Prefabs/Procedural/3D/CornerRampNC, Codefarts.Unity/Textures/ProceduralCornerRampNC, CornerRamp
+Codefarts.Unity/Prefabs/Procedural/3D/RampNC, Codefarts.Unity/Textures/ProceduralRampNC, Ramp
+Codefarts.Unity/Prefabs/Procedural/3D/InsideCornerNC, Codefarts.Unity/Textures/ProceduralInsideCornerNC, InsideCorner
+Codefarts.Unity/Prefabs/Procedural/3D/OutsideCornerNC, Codefarts.Unity/Textures/ProceduralOutsideCornerNC, OutsideCorner
+Codefarts.Unity/Prefabs/Procedural/3D/PyramidNC, Codefarts.Unity/Textures/ProceduralPyramidNC, Pyramid

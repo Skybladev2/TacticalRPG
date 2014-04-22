@@ -1,0 +1,25 @@
+﻿ERR_SettingsPropNotSet 'Settings' property has not been set.
+ERR_CouldNotParseUri Could not parse the url.
+ERR_CouldNotFindMessageElement Response is missing a "message" element. 
+ERR_CouldNotFindSuccessElement Response is missing a "success" element. 
+ERR_CouldNotParseSuccessElement	Could not parse the "success" element. 
+
+SaveSettingsXml Save settings *.xml
+SettingsFile Settings File
+Settings Settings
+
+SETT_GlobalSettings Global Settings
+SETT_ResourceFolder Resource Folder
+
+Feedback Feedback
+Submit Submit   
+Submitting Submitting
+PercentageComplete {0}% complete
+Canceled Canceled
+Subject Subject
+Message Message
+EmailOptional Email (Optional)
+Close Close
+Success Success
+Create Create
+MissingSettingsFile The settings file appears to have not been set or the\r\n file is missing. Click the "..." button to specify a\r\n settings file.

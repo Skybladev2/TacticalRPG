@@ -1,0 +1,16 @@
+﻿// Source asset, texture icon, name
+// separator ,
+
+// category Procedural/2D Shapes (Low poly)
+
+Codefarts.Unity/Prefabs/Procedural/2D/Plane, Codefarts.Unity/Textures/ProceduralSquare, Plane
+Codefarts.Unity/Prefabs/Procedural/2D/InsideCorner2D, Codefarts.Unity/Textures/ProceduralInsideCorner2D, InsideCorner2D
+Codefarts.Unity/Prefabs/Procedural/2D/OutsideCorner2D, Codefarts.Unity/Textures/ProceduralOutsideCorner2D, OutsideCorner2D
+Codefarts.Unity/Prefabs/Procedural/2D/Ramp2D, Codefarts.Unity/Textures/ProceduralRamp2D, Ramp2D	    
+
+// category Procedural/2D Shapes (Low poly \ No Collider)
+
+Codefarts.Unity/Prefabs/Procedural/2D/PlaneNC, Codefarts.Unity/Textures/ProceduralSquareNC, Plane
+Codefarts.Unity/Prefabs/Procedural/2D/InsideCorner2DNC, Codefarts.Unity/Textures/ProceduralInsideCorner2DNC, InsideCorner2D
+Codefarts.Unity/Prefabs/Procedural/2D/OutsideCorner2DNC, Codefarts.Unity/Textures/ProceduralOutsideCorner2DNC, OutsideCorner2D
+Codefarts.Unity/Prefabs/Procedural/2D/Ramp2DNC, Codefarts.Unity/Textures/ProceduralRamp2DNC, Ramp2D	    

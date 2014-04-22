@@ -1,0 +1,7 @@
+﻿// Source asset, texture icon, name
+// separator ,
+
+// category Mesh Based/2D Shapes (Low poly)
+
+Codefarts.Unity/Prefabs/Mesh Based/2D/2PolyPlane, Codefarts.Unity/Textures/MeshSquare, PlaneMesh
+Codefarts.Unity/Prefabs/Mesh Based/2D/InsideCorner2D, Codefarts.Unity/Textures/MeshInsideCorner2D, InsideCorner2DMesh

@@ -1,0 +1,39 @@
+﻿// Source asset, texture icon, name
+// separator ,
+
+// category Sprites
+
+Codefarts.Unity/Prefabs/Sprites/FloorTileSquare_Cyan					  , , FloorTileSquare_Cyan
+Codefarts.Unity/Prefabs/Sprites/ShortGrassTop							  , , ShortGrassTop
+Codefarts.Unity/Prefabs/Sprites/ShortGrassLeft							  , , ShortGrassLeft
+Codefarts.Unity/Prefabs/Sprites/TallGrassTop							  , , TallGrassTop
+Codefarts.Unity/Prefabs/Sprites/ShortGrassManyleaves					  , , ShortGrassManyleaves
+Codefarts.Unity/Prefabs/Sprites/WhiteTile								  , , WhiteTile
+Codefarts.Unity/Prefabs/Sprites/ManyLeavesTransparent					  , , ManyLeavesTransparent
+Codefarts.Unity/Prefabs/Sprites/StoneBlockNoBorderBlackCorners_LightBrown , , StoneBlockNoBorderBlackCorners_LightBrown
+Codefarts.Unity/Prefabs/Sprites/StoneBlockBlackBorder_LightBrown		  , , StoneBlockBlackBorder_LightBrown
+Codefarts.Unity/Prefabs/Sprites/TallGrassLeaves							  , , TallGrassLeaves
+Codefarts.Unity/Prefabs/Sprites/TallGrassCorner							  , , TallGrassCorner
+Codefarts.Unity/Prefabs/Sprites/TallGrassBR								  , , TallGrassBR
+Codefarts.Unity/Prefabs/Sprites/DiamondFloorTile_Cyan					  , , DiamondFloorTile_Cyan
+Codefarts.Unity/Prefabs/Sprites/TallGrassRoundedTR						  , , TallGrassRoundedTR
+Codefarts.Unity/Prefabs/Sprites/TallGrassRight							  , , TallGrassRight
+Codefarts.Unity/Prefabs/Sprites/ShortGrass								  , , ShortGrass
+Codefarts.Unity/Prefabs/Sprites/TallGrassManyLeaves						  , , TallGrassManyLeaves
+Codefarts.Unity/Prefabs/Sprites/TallGrass								  , , TallGrass
+Codefarts.Unity/Prefabs/Sprites/LeavesTransparent						  , , LeavesTransparent
+Codefarts.Unity/Prefabs/Sprites/FloorTileQuadCircles_Cyan				  , , FloorTileQuadCircles_Cyan
+Codefarts.Unity/Prefabs/Sprites/ShortGrassLeaves						  , , ShortGrassLeaves
+Codefarts.Unity/Prefabs/Sprites/FloorTileQuad_Brown						  , , FloorTileQuad_Brown
+Codefarts.Unity/Prefabs/Sprites/TallGrassRightB							  , , TallGrassRightB
+Codefarts.Unity/Prefabs/Sprites/TallGrassBL								  , , TallGrassBL
+Codefarts.Unity/Prefabs/Sprites/StoneBlockNoBorderTransparent_LightBrown  , , StoneBlockNoBorderTransparent_LightBrown
+Codefarts.Unity/Prefabs/Sprites/Shrub									  , , Shrub
+Codefarts.Unity/Prefabs/Sprites/TallGrassTL								  , , TallGrassTL
+Codefarts.Unity/Prefabs/Sprites/DiamondFloorTile_Brown					  , , DiamondFloorTile_Brown
+Codefarts.Unity/Prefabs/Sprites/FloorTileQuadCircles_Brown				  , , FloorTileQuadCircles_Brown
+Codefarts.Unity/Prefabs/Sprites/FloorTileSquare_Brown					  , , FloorTileSquare_Brown
+Codefarts.Unity/Prefabs/Sprites/FloorTileQuad_Cyan						  , , FloorTileQuad_Cyan
+Codefarts.Unity/Prefabs/Sprites/StoneBlockTransparent_LightBrown		  , , StoneBlockTransparent_LightBrown
+Codefarts.Unity/Prefabs/Sprites/TallGrassTopB							  , , TallGrassTopB
+																  

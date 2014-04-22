@@ -1,0 +1,18 @@
+﻿// Source asset, texture icon, name
+// separator ,
+
+// category Unity Shapes
+
+Codefarts.Unity/Prefabs/Unity Shapes/Cube, Codefarts.Unity/Textures/Box Collider, Cube
+Codefarts.Unity/Prefabs/Unity Shapes/Cylinder, Codefarts.Unity/Textures/Cylinder Collider, Cylinder
+Codefarts.Unity/Prefabs/Unity Shapes/Capsule, Codefarts.Unity/Textures/Capsule Collider, Capsule
+Codefarts.Unity/Prefabs/Unity Shapes/Sphere, Codefarts.Unity/Textures/Sphere Collider, Sphere
+Codefarts.Unity/Prefabs/Unity Shapes/Plane, Codefarts.Unity/Textures/10x10 Plane Collider, Plane
+
+// category Unity Shapes (No Colliders)
+
+Codefarts.Unity/Prefabs/Unity Shapes/CubeNC, Codefarts.Unity/Textures/Box, Cube
+Codefarts.Unity/Prefabs/Unity Shapes/CylinderNC, Codefarts.Unity/Textures/Cylinder, Cylinder
+Codefarts.Unity/Prefabs/Unity Shapes/CapsuleNC, Codefarts.Unity/Textures/Capsule, Capsule
+Codefarts.Unity/Prefabs/Unity Shapes/SphereNC, Codefarts.Unity/Textures/Sphere, Sphere
+Codefarts.Unity/Prefabs/Unity Shapes/PlaneNC, Codefarts.Unity/Textures/10x10 Plane, Plane
